@@ -35001,7 +35001,7 @@ L(a){var s=null
 return new A.q7($.auI(),"Formularios CCPVN",A.rd(s,A.ame(B.X,s,s,B.H0),!0),!1,s)}}
 A.vN.prototype={
 ad(){var s=$.ab()
-return new A.Ay(new A.b4(null,t.am),new A.r7(B.jG,s),new A.r7(B.jG,s),A.b(["trigal","colinas","mirador","centro","oriente","norte","sur","plaza dracula","guaparo","sauces","chimeneas"],t.s))}}
+return new A.Ay(new A.b4(null,t.am),new A.r7(B.jG,s),new A.r7(B.jG,s),A.b(["el_trigal","el_parral","el_bosque","cerro_casupo","parque_pe\xf1alver","misael_delgado","boulevard_el_vi\xf1edo","plaza_dracula","guaparo","los_sauses","la_chimenea"],t.s))}}
 A.Ay.prototype={
 qb(){var s=0,r=A.O(t.H),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 var $async$qb=A.P(function(a2,a3){if(a2===1){o=a3
